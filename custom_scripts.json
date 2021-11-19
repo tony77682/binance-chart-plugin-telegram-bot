@@ -1,5 +1,5 @@
 {
   "Crypto chart from Binance": "bash -c 'cd .. && python3 binance-chart-plugin-telegram-bot -bn'",
-  "Crypto chart from databae": "bash -c 'cd .. && python3 binance-chart-plugin-telegram-bot -db'",
+  "Crypto chart from database": "bash -c 'cd .. && python3 binance-chart-plugin-telegram-bot -db'",
   "Update crypto chart": "bash -c 'cd ../binance-chart-plugin-telegram-bot && git pull'"
 }
